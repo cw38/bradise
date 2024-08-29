@@ -1,0 +1,67 @@
+.btn-close {
+  position: absolute;
+  right: 17.5px;
+  top: 17.5px;
+}
+
+.nav-link {
+  padding-left: 10px;
+}
+
+.colorimage {
+  width: 100%;
+}
+
+.colorimage img {
+  padding: 20px 25px;
+  margin: 0px;
+}
+
+.Pantone {
+  color: var(--bs-white);
+  font-weight: bold;
+  margin: 0px;
+}
+
+h6 {
+}
+
+h6 {
+}
+
+.Colorheading {
+  color: var(--bs-white);
+  padding-top: 30px;
+}
+
+.Colorvalue {
+  color: var(--bs-white);
+  padding-bottom: 15px;
+}
+
+.Redbutton:hover {
+  background-color: var(--bs-red);
+}
+
+.Yellowbutton:hover {
+  background-color: var(--bs-yellow);
+  color: var(--bs-black);
+}
+
+.card {
+  border: 0px;
+}
+
+.card-body {
+  padding: 15px 0px;
+}
+
+a:hover {
+  --bs-link-color-rgb: var(--bs-link-hover-color-rgb);
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
